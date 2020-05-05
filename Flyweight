@@ -2,7 +2,7 @@ Samples >> video game
 ----------------------------
 
 public interface Character {
-    public void render();
+     void render();
 }
 
 public class CharacterA implements Character {
